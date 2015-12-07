@@ -19,4 +19,5 @@ brightbox/ruby-ng
 
 ## Nasty Augeas Fix
 [Puppet Could Not Find a Default Provider for Augeas](http://m0dlx.com/blog/Puppet__could_not_find_a_default_provider_for_augeas.html)
+
 Related bug [report](https://tickets.puppetlabs.com/browse/PUP-3796)
