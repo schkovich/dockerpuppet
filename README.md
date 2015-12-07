@@ -11,5 +11,5 @@ brightbox/ruby-ng
  * puppet 3.8.4
 
 ## Installed Gems
-librarian-puppet 2.2.1
-deep_merge 1.0.1
+ * librarian-puppet 2.2.1
+ * deep_merge 1.0.1
