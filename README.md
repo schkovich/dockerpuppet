@@ -1,5 +1,7 @@
 # Docker Puppet Base Image
-Base Docker image from Ubuntu Trusty meant to build Puppet managed images on top of it. See [Docker and Puppet](https://puppetlabs.com/presentations/using-docker-puppet-james-turnbull-kickstarter)
+Base Docker image from Ubuntu Trusty meant to build Puppet managed images on top of it. 
+
+See [Docker and Puppet](https://puppetlabs.com/presentations/using-docker-puppet-james-turnbull-kickstarter)
 ## PPAs Added
 brightbox/ruby-ng
 ## Installed Packages
