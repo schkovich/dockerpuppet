@@ -44,4 +44,4 @@ RUN rm -r '2.1.0/' \
   && ln -s 2.0.0/ '2.1.0'
 WORKDIR /usr/lib/x86_64-linux-gnu
 RUN ln -s libruby-2.1.so.2.1 libruby-2.0.so.2.0WORKDIR /tmp
-RUN gem install librarian-puppet deep_merge --no-rdoc --no-ri
+RUN gem install librarian-puppet deep_merge json --no-rdoc --no-ri
